@@ -1,0 +1,4 @@
+/* Clear default Vite styles to avoid conflicts with Tailwind */
+#root {
+  width: 100%;
+}
